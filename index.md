@@ -9,7 +9,7 @@
 
 ---
 [Dogs](https://brunotravassos93.github.io/dogs/)
-<img src="https://i.ibb.co/GpfX44D/dogs.png"/>
+<img src="https://i.ibb.co/txMF5CG/dogs.png"/>
 
 ---
 [Bateria](https://brunotravassos93.github.io/bateria/)
