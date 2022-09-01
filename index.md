@@ -12,7 +12,7 @@
 <img src="https://i.ibb.co/GpfX44D/dogs.png"/>
 
 ---
-[Bateria](https://brunotravassos93.github.io/bateria/))
+[Bateria](https://brunotravassos93.github.io/bateria/)
 <img src="https://i.ibb.co/MPFpm5S/bateria.png"/>
 
 [Clima](https://brunotravassos93.github.io/clima/)
