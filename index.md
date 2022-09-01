@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Front-End
 
 [Calculadora Trabalhista](/sample_page)
 <img src="https://i.ibb.co/2dbTt92/calculadora-trabalhista.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dogs]
+<img src="https://i.ibb.co/GpfX44D/dogs.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
