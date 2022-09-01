@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Calculadora Trabalhista](/sample_page)
-<img src="https://i.ibb.co/2dbTt92/calculadora-trabalhista.png" alt="calculadora-trabalhista"/>
+<img src="https://i.ibb.co/2dbTt92/calculadora-trabalhista.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
