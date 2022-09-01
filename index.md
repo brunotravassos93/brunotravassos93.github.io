@@ -12,8 +12,8 @@
 <img src="https://i.ibb.co/GpfX44D/dogs.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bateria](http://example.com/)
+<img src="https://i.ibb.co/MPFpm5S/bateria.png"/>
 
 ---
 
