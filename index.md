@@ -8,7 +8,7 @@
 <img src="https://i.ibb.co/2dbTt92/calculadora-trabalhista.png"/>
 
 ---
-[Dogs]
+[Dogs](/pdf/sample_presentation.pdf)
 <img src="https://i.ibb.co/GpfX44D/dogs.png"/>
 
 ---
